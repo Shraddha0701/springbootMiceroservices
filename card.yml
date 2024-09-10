@@ -1,0 +1,38 @@
+#server:
+#  port: 9000
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driverClassName: org.h2.Driver
+#    username: admin
+#    password: "admin"
+#  h2:
+#    console:
+#      enabled: true
+#    jpa:
+#      database-platform: org.hibernate.dialect.H2Dialect
+#      hibernate:
+#        ddl:auto: update
+#      show-sql: true
+#  config:
+#    import:
+#      - "card-qa.yml"
+#      - "card-prod.yml"
+#  profiles:
+#    active:
+#      - "prod"
+
+
+
+
+card:
+  message: "welcome to card microservice"
+  contactDetails:
+    name: "akshay patil"
+    email: "ab2@gmail.com"
+  onCallSupport:
+    - 123121
+    - 345321
+
+
+

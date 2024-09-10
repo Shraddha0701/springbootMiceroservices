@@ -1,0 +1,15 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+build:
+  version: "2.0"
+accounts:
+  message: "welcome to qa configration"
+  contactDetails:
+    name: "akshay_qa"
+    email: "abc@qa.com"
+  oncallsupport:
+    - 12121
+    - 14121

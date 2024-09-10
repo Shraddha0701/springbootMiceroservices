@@ -1,0 +1,15 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "1.0"
+accounts:
+  message: "welcome to prod configration"
+  contactDetails:
+    name: "akshay_prod"
+    email: "abc@prod.com"
+  oncallsupport:
+    - 45231
+    - 45123

@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#        on-profile: "qa"
+
+
+card:
+  message: "welcome to qa card microservice"
+  contactDetails:
+    name: "akshay qa"
+    email: "ab2@qa.com"
+  onCallSupport:
+    - 23434
+    - 34111

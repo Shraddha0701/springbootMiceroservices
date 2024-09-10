@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#      activate:
+#        on-profile: "prod"
+
+
+
+
+card:
+  message: "welcome to prod  card microservice"
+  contactDetails:
+    name: "akshay prod"
+    email: "ab2@prod.com"
+  onCallSupport:
+    - 12321
+    - 34121
