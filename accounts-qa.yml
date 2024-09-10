@@ -9,7 +9,7 @@ accounts:
   message: "welcome to qa configration"
   contactDetails:
     name: "akshay_qa"
-    email: "abc@qa.com"
+    email: "{cipher}363adab96a2ab685c5f6b24e26b11126f54f14b17d40ba9186ceda9829444db6"
   oncallsupport:
     - 12121
     - 14121
