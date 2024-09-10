@@ -6,7 +6,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "welcome to qa configration"
+  message: "welcome to qa live reload demo"
   contactDetails:
     name: "akshay_qa"
     email: "{cipher}363adab96a2ab685c5f6b24e26b11126f54f14b17d40ba9186ceda9829444db6"
