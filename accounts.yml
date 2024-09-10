@@ -26,7 +26,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "welcome to configuration"
+  message: "welcome to live dokcer reload"
   contactDetails:
     name: "akshay"
     email: "abc@gmail.com"
