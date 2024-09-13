@@ -4,7 +4,7 @@
 #      on-profile: "prod"
 
 build:
-  version: "1.0"
+  version: "3.0"
 accounts:
   message: "welcome to prod configration live reload in docker container"
   contactDetails:

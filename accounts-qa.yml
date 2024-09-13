@@ -4,7 +4,8 @@
 #      on-profile: "qa"
 
 build:
-  version: 1.1
+  version: "3.0"
+
 accounts:
   message: "welcome qa live reload in docker containers"
   contactDetails:
